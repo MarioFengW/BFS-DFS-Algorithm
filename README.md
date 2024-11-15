@@ -54,4 +54,6 @@ The graph is modeled using an adjacency matrix. Each person is a node in the gra
 The project includes detailed explanations of how each part of the system works and a console demonstration video showing the output and performance of the implemented algorithms.
 
 
-## Video Demostrativo salida consola
+## Operation Video
+
+https://drive.google.com/file/d/1gWik_To1tRqe1dGu6ZC6E5NSACv4Ecq1/view?usp=sharing
